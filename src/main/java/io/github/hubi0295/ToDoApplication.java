@@ -13,6 +13,7 @@ public class ToDoApplication implements RepositoryRestConfigurer {
 
 	public static void main(String[] args) {
 		SpringApplication.run(ToDoApplication.class, args);
+
 	}
 
 }
